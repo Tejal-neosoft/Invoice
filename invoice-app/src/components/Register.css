@@ -1,0 +1,40 @@
+body{
+    /* background-image: linear-gradient(to right , #ff5722,#ff9800); */
+    
+    letter-spacing: 1px;
+    /* margin-top: 30px !important; */
+    /* margin-left: 250px; */
+}
+.boxr{
+    /* background-color: palegoldenrod; */
+    padding: 30px;
+    width: 900px;
+    margin-left: 220px; 
+    margin-top: 30px !important;
+
+}
+.register-left{
+    /* color: paleturquoise; */
+    text-align: center;
+    border-radius: 25px 0px 0px 0px;
+    background-color: palegreen;
+    background-image: linear-gradient(45deg ,palegreen,mintcream,palegreen); 
+    padding: 30px;
+}
+.iboxr{
+    border: 1px solid;
+    border-radius: 5px 10px 5px 5px;
+    /* background-color: white; */
+    width: 520px;
+    /* background-image: linear-gradient(45deg ,palegreen,mintcream,palegreen);  */
+    background: linear-gradient(45deg,paleturquoise,mintcream);
+    
+    margin-left: 190px;
+    padding: 40px;
+    box-shadow: 5px 10px 8px 10px #888888;
+}
+.buttonr{
+    margin-left: 170px;
+    width: 150px;
+    margin-bottom: 20px;
+}

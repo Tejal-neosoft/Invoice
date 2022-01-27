@@ -1,0 +1,16 @@
+.box{
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 60px;
+    width: 600px;
+    margin-left: 250px;
+    box-shadow: 5px 10px 8px 10px #888888;
+    
+}
+.data{
+    border: 1px solid black;
+    padding: 30px;
+    margin-top: 20px;
+    /* box-shadow: 5px 10px 8px 10px #888888; */
+
+}
